@@ -6,4 +6,13 @@ import { Injectable } from '@angular/core';
 export class ScrumcardsService {
 
   constructor() { }
+
+
+  //http get: cards
+  //http put: edit cards
+  //http post: new cards
+  //http delete: delete card
+
+  
+
 }
